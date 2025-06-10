@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <DuneAtreide>-azure-ttt
+  DOCKER_IMAGE_NAME: <username>-azure-ttt
   AZURE_WEBAPP_NAME: <DuneAtreide>-ttt-app
   ###############################################
 
